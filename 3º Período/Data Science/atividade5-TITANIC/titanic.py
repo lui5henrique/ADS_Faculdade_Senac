@@ -10,6 +10,7 @@ Membros da equipe:
     Leticia Mendes
     Marcos Paraguaio
     Gilberto Quintino
+    Nicolas Nobre
 '''
 
 import pandas as pd
